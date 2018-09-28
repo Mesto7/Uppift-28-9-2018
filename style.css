@@ -1,0 +1,49 @@
+*{
+    background-color: yellow;
+}
+
+#container {
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    background-color: #8a8afb;
+   display: flex;
+    justify-content: center;
+    align-content: center; 
+}
+#calculator {
+    background-color: #0a58ff;
+}
+
+.P {
+    background-color: white;
+    border-radius: 5px;
+    width: 77%;
+}
+input {
+    border-radius: 33%;
+    padding: 10px;
+    padding-right: 14px;
+    padding-left: 35px;
+    margin: 7px;
+}
+
+#input {
+    border-radius: 6px;
+    width: 43%;
+}
+
+#answer {
+    border-radius: 6px;
+    width: 43%;
+}
+
+.c {
+    border-radius: 6px;
+    width: 53%;
+}
+
+.Xaz {
+   width: 53%;
+   border-radius: 6px;
+}
